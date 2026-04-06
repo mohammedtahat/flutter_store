@@ -1,35 +1,51 @@
 # Flutter Store App
 
-Welcome to my Flutter Store App! Here are some screenshots:
+مرحبًا! هذا تطبيق متجر Flutter. هنا بعض الصور التوضيحية (Screenshots) للتطبيق.
+
+---
 
 ## Splash Screens
-![Splash 1](screenshots/splash1.png)
-![Splash 2](screenshots/splash2.png)
-![Splash 3](screenshots/splash3.png)
+<img src="screenshots/splash1.png" width="150" /> 
+<img src="screenshots/splash2.png" width="150" /> 
+<img src="screenshots/splash3.png" width="150" /> 
+
+---
 
 ## Authentication Screens
-![Auth 1](screenshots/auth1.png)
-![Auth 2](screenshots/auth2.png)
-![Auth 3](screenshots/auth3.png)
+<img src="screenshots/auth1.png" width="150" /> 
+<img src="screenshots/auth2.png" width="150" /> 
+<img src="screenshots/auth3.png" width="150" /> 
+
+---
 
 ## Home & Products
-![Home](screenshots/home.png)
-![Products](screenshots/products.png)
+<img src="screenshots/home.png" width="150" /> 
+<img src="screenshots/products.png" width="150" /> 
+
+---
 
 ## Cart Screens
-![Cart](screenshots/cart.png)
-![Cart 1](screenshots/cart1.png)
-![Cart 2](screenshots/cart2.png)
+<img src="screenshots/cart.png" width="150" /> 
+<img src="screenshots/cart1.png" width="150" /> 
+<img src="screenshots/cart2.png" width="150" /> 
+
+---
 
 ## Wishlist
-![Wishlist](screenshots/wishlist.png)
+<img src="screenshots/wishlist.png" width="150" /> 
+
+---
 
 ## Search
-![Search](screenshots/search.png)
+<img src="screenshots/search.png" width="150" /> 
+
+---
 
 ## Profile Screens
-![Profile](screenshots/profile.png)
-![Profile 1](screenshots/profile1.png)
+<img src="screenshots/profile.png" width="150" /> 
+<img src="screenshots/profile1.png" width="150" /> 
+
+---
 
 ## Settings
-![Settings](screenshots/settings.png)
+<img src="screenshots/settings.png" width="150" /> 
