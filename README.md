@@ -1,16 +1,35 @@
-# shop_flutter
+# Flutter Store App
 
-A new Flutter project.
+Welcome to my Flutter Store App! Here are some screenshots:
 
-## Getting Started
+## Splash Screens
+![Splash 1](screenshots/splash1.png)
+![Splash 2](screenshots/splash2.png)
+![Splash 3](screenshots/splash3.png)
 
-This project is a starting point for a Flutter application.
+## Authentication Screens
+![Auth 1](screenshots/auth1.png)
+![Auth 2](screenshots/auth2.png)
+![Auth 3](screenshots/auth3.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Home & Products
+![Home](screenshots/home.png)
+![Products](screenshots/products.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cart Screens
+![Cart](screenshots/cart.png)
+![Cart 1](screenshots/cart1.png)
+![Cart 2](screenshots/cart2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Wishlist
+![Wishlist](screenshots/wishlist.png)
+
+## Search
+![Search](screenshots/search.png)
+
+## Profile Screens
+![Profile](screenshots/profile.png)
+![Profile 1](screenshots/profile1.png)
+
+## Settings
+![Settings](screenshots/settings.png)
