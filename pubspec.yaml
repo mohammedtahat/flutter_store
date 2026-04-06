@@ -1,0 +1,29 @@
+name: flutter_store
+description: Professional E-Commerce App with MVC Architecture
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.6.6
+  google_fonts: ^6.1.0
+  smooth_page_indicator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  shimmer: ^3.0.0
+  cached_network_image: ^3.3.1
+  lottie: ^3.0.0
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
